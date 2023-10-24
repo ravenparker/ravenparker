@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raven Parker</h1>
 <h3 align="center">A creative and passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **my Capstone project**
+- 🔭 I’m currently working on **coding exercises and personal projects**
 
 - 🌱 I’m currently learning **Python**
 
